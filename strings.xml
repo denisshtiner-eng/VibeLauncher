@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vibe Launcher</string>
+    <string name="swipe_up_hint">свайп вверх</string>
+    <string name="search_apps">Поиск приложений...</string>
+    <string name="no_apps">Приложения не найдены</string>
+</resources>
